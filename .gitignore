@@ -1,0 +1,14 @@
+# Database
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Environment variables
+.env
+.env.*
