@@ -65,19 +65,19 @@ Prepared an Excel reporting workflow covering campaign performance, customer seg
 
 ### CRM Overview
 
-![CRM Overview](screenshots/01_crm_overview.png)
+![CRM Overview](01_crm_overview.png)
 
 ### Customer Segmentation
 
-![Customer Segmentation](screenshots/02_customer_segmentation.png)
+![Customer Segmentation](02_customer_segmentation.png)
 
 ### Campaign Performance
 
-![Campaign Performance](screenshots/03_campaign_performance.png)
+![Campaign Performance](03_campaign_performance.png)
 
 ### Data Quality
 
-![Data Quality](screenshots/04_data_quality.png)
+![Data Quality](04_data_quality.png)
 
 ## Key Findings
 
