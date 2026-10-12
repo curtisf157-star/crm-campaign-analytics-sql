@@ -1,0 +1,13 @@
+﻿customer_id,first_name,region,customer_segment,signup_date
+1001,Alex,London,Loyal,2025-01-15
+1002,Jamie,South East,New,2025-02-03
+1003,Morgan,London,At Risk,2024-11-22
+1004,Taylor,Midlands,Loyal,2024-08-10
+1005,Casey,South East,New,2025-03-01
+1006,Riley,North West,At Risk,2024-10-05
+1007,Jordan,London,New,2025-04-12
+1008,Sam,Midlands,Loyal,2024-06-19
+1009,Drew,North West,New,2025-05-27
+1010,Avery,South East,At Risk,2024-12-08
+1011,Robin,London,Loyal,2024-07-14
+1012,Cameron,Midlands,New,2025-06-02

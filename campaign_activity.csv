@@ -1,0 +1,19 @@
+﻿activity_id,customer_id,campaign_name,contact_date,response_status
+1,1001,Spring Offer,2025-03-10,Responded
+2,1002,Spring Offer,2025-03-10,No Response
+3,1003,Spring Offer,2025-03-11,Responded
+4,1004,Spring Offer,2025-03-11,No Response
+5,1005,Spring Offer,2025-03-12,Responded
+6,1006,Spring Offer,2025-03-12,Opted Out
+7,1007,Summer Preview,2025-06-05,Responded
+8,1008,Summer Preview,2025-06-05,Responded
+9,1009,Summer Preview,2025-06-06,No Response
+10,1010,Summer Preview,2025-06-06,No Response
+11,1011,Summer Preview,2025-06-07,Responded
+12,1012,Summer Preview,2025-06-07,No Response
+13,1001,Loyalty Reminder,2025-07-01,Responded
+14,1003,Loyalty Reminder,2025-07-01,No Response
+15,1004,Loyalty Reminder,2025-07-02,Responded
+16,1006,Loyalty Reminder,2025-07-02,No Response
+17,1008,Loyalty Reminder,2025-07-03,Opted Out
+18,1011,Loyalty Reminder,2025-07-03,Responded

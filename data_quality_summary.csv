@@ -1,0 +1,5 @@
+﻿quality_check,issues_found
+Missing Customer Data,0
+Repeated Customer-Campaign Combinations,0
+Invalid Customer References,0
+Customers With Activity After Opt-Out,1
