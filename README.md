@@ -61,25 +61,23 @@ Used Python's built-in SQLite and CSV modules to support reproducible data extra
 
 Prepared an Excel reporting workflow covering campaign performance, customer segmentation, data quality and business KPIs.
 
-### Power BI Reporting
+## Power BI Dashboard
 
-Designed a four-page Power BI reporting solution:
+### CRM Overview
 
-**Page 1 — CRM Overview**
+![CRM Overview](screenshots/01_crm_overview.png)
 
-Customer counts, campaign activity, responses and engagement metrics.
+### Customer Segmentation
 
-**Page 2 — Customer Segmentation**
+![Customer Segmentation](screenshots/02_customer_segmentation.png)
 
-Customer groups, response rates and segment comparisons.
+### Campaign Performance
 
-**Page 3 — Campaign Performance**
+![Campaign Performance](screenshots/03_campaign_performance.png)
 
-Campaign-level responses, opt-outs and performance comparisons.
+### Data Quality
 
-**Page 4 — Data Quality**
-
-Validation results, investigation flags and customer data integrity.
+![Data Quality](screenshots/04_data_quality.png)
 
 ## Key Findings
 
